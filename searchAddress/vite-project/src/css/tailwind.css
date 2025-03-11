@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap'); 
+@import "tailwindcss";
+
+
+
+.font-Caveat {
+    font-family: "Caveat", cursive;
+    font-size: 1.5rem;
+  } 
+
+  .svgWhite{
+    filter: invert(100%) brightness(100%);
+  }
