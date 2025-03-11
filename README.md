@@ -19,26 +19,15 @@ O projeto é construído com:
 - **HTML5 + CSS3** → Estruturação e estilização responsiva da interface do usuário.
 - **[API ViaCEP](https://viacep.com.br/)** → Serviço gratuito utilizado para consultar endereços com base no CEP informado.
 
-📡 Como Funciona?
+## 📡 Como Funciona?
 O usuário insere um CEP no campo de busca.
 A aplicação valida se o CEP possui 8 dígitos numéricos.
 Se o CEP for válido, é feita uma requisição à API ViaCEP.
 A API retorna os dados do endereço correspondente (rua, bairro, cidade, estado).
 Os dados são exibidos na tela de forma organizada e clara.
 
-🎨 Interface da Aplicação
+## 🎨 Interface da Aplicação
 A interface do buscarCEP segue um design minimalista e responsivo, garantindo boa experiência tanto em dispositivos móveis quanto em computadores.
-
-🖼️ Exemplo de Tela:
-Campo de entrada para o CEP
-Botão para buscar informações
-Exibição do endereço retornado pela API
-🛠️ Possíveis Melhorias Futuras
-🚧 Melhoria na validação do CEP (exibir mensagens mais detalhadas)
-🚧 Histórico de buscas para facilitar pesquisas repetidas
-🚧 Suporte a múltiplas APIs para maior confiabilidade
-🚧 Modo escuro para melhor acessibilidade
-
 
 ## ▶️ Como Executar o Projeto
 
