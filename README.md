@@ -20,11 +20,11 @@ O projeto é construído com:
 - **[API ViaCEP](https://viacep.com.br/)** → Serviço gratuito utilizado para consultar endereços com base no CEP informado.
 
 ## 📡 Como Funciona?
-O usuário insere um CEP no campo de busca.
-A aplicação valida se o CEP possui 8 dígitos numéricos.
-Se o CEP for válido, é feita uma requisição à API ViaCEP.
-A API retorna os dados do endereço correspondente (rua, bairro, cidade, estado).
-Os dados são exibidos na tela de forma organizada e clara.
+1. O usuário insere um CEP no campo de busca.
+2. A aplicação valida se o CEP possui 8 dígitos numéricos.
+3. Se o CEP for válido, é feita uma requisição à API ViaCEP.
+4. A API retorna os dados do endereço correspondente (rua, bairro, cidade, estado).
+5. Os dados são exibidos na tela de forma organizada e clara.
 
 ## 🎨 Interface da Aplicação
 A interface do buscarCEP segue um design minimalista e responsivo, garantindo boa experiência tanto em dispositivos móveis quanto em computadores.
